@@ -1,0 +1,17 @@
+{
+  "name": "oliveira/html-macros",
+  "description": "Html and Form macros that extends the Illuminate\\Form and Illuminate\\Html",
+  "type": "helpers",
+  "license": "MIT",
+  "authors": [{
+    "name": "BruNo Oliveira",
+    "email": "bruno.oliveirati1@gmail.com"
+  }],
+  "minimum-stability": "stable",
+  "require": {},
+  "autoload": {
+    "files": [
+      "src/helpers.php"
+    ]
+  }
+}
